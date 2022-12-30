@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rodrigoemarquez
-- 👀 I’m interested in Tennis, Running
+- 👀 I’m interested in Back-end technologies
 - 🌱 I’m currently learning Node.js and MongoDB
 - 💞️ I’m looking to collaborate on online retailing UI/UX and back-end
-- 📫 How to reach me ... rodrigoemarquez@gmail.com
+- 📫 How to reach me ... hello@rodrigomarquez.net
