@@ -4,7 +4,3 @@
 <br/>
 
 🌱 Here you will find my latest content and new updates. Feel free to check all my projects and contact me for any questions!
-
-⚡ Please visit my Portfolio here: https://rodrigomarquez.net
-
-📄 Or let's connect on Linkedin: https://www.linkedin.com/in/rodrigoemarquez/
