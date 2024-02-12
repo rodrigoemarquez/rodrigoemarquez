@@ -1,6 +1,7 @@
-<h1 align="center">👋 Hi, I'm Rod 👋</h1>
+<h1 align="center">A tailored solution</h1>
 
-<h3 align="center">A PR pro who loves to code!</h3>
+<h3 align="center">Elevate your vision with a top-tier creative pro and a squad of savvy associates, crafting bespoke insights for up to five clients at a time.</h3>
 <br/>
 
-🌱 Here you will find my latest content and new updates. Feel free to check all my projects and contact me for any questions!
+<h4 align="center">This account mainly features works and edits from my early student years. Feel free to explore my code to learn more about me or simply appreciate it as much as I do.</h3>
+<br/>
