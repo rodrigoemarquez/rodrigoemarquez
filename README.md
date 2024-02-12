@@ -5,3 +5,5 @@
 
 <h4 align="center">This account mainly features works and edits from my early student years. Feel free to explore my code to learn more about me or simply appreciate it as much as I do.</h3>
 <br/>
+
+<h4>Email me: <a href="mailto:rodrigoemarquez@icloud.com">rodrigoemarquez@icloud.com</a></h4>
